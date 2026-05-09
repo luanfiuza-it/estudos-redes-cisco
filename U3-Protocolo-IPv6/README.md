@@ -1,11 +1,11 @@
 # 🌐 U3: Protocolo IPv6
 
 ## 🎯 Objetivo
-Configurar uma infraestrutura de rede utilizando o novo padrão de endereçamento IPv6, garantindo o roteamento e a comunicação entre dispositivos de sub-redes distintas[cite: 351, 352].
+Configurar uma infraestrutura de rede utilizando o novo padrão de endereçamento IPv6, garantindo o roteamento e a comunicação entre dispositivos de sub-redes distintas.
 
 ## 🛠️ Topologia e Endereçamento
-* **Sub-rede 1:** Prefixo `2001:DB8:1::/64` (Gateway: `2001:DB8:1::1`)[cite: 357].
-* **Sub-rede 2:** Prefixo `2001:DB8:2::/64` (Gateway: `2001:DB8:2::1`)[cite: 357].
+* **Sub-rede 1:** Prefixo `2001:DB8:1::/64` (Gateway: `2001:DB8:1::1`).
+* **Sub-rede 2:** Prefixo `2001:DB8:2::/64` (Gateway: `2001:DB8:2::1`).
 
 ### Comandos de Roteamento IPv6
 ```bash
